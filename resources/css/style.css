@@ -3,8 +3,26 @@
     padding: 0;
     height: 100%;
     width: 100%;
-    text-align: center;
-    background-color: black;
-    color: white;
-}
+ }
 
+ nav {
+    background-color: #F5EFC1;
+    height: 54px;
+ }
+
+.button {
+  box-sizing: border-box;
+  height: 32px;
+  width: 163px;
+  border: 1px solid #FFFFFF;
+  border-radius: 21.5px;
+  background-color: #DF476C;
+  color: #FFFFFF;
+  font-size: 8px;
+  font-weight: 500;
+  margin-top: 11px;
+  margin-right: 46px;
+  margin-bottom: 11px;
+  margin-left: 991px;
+
+}
