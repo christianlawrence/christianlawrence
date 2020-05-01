@@ -48,6 +48,15 @@ h1 {
     font-size: 102px;
     line-height: 136px;
     font-weight: bold;
-    
+    height: 137px;
+}
 
+h5 {
+    height: 54px;
+    color: #DF476C;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 27px;
+    text-align: center;
+    margin-top: 32px;
 }
