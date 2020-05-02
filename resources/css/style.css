@@ -41,7 +41,6 @@
     margin-top: 17.26px;
     float: right;
     margin-right: 355.74px;
-    /* margin-left: 595.26px; */
 }
 
 h1 {
@@ -61,4 +60,35 @@ h5 {
     line-height: 27px;
     text-align: center;
     margin-top: 32px;
+}
+
+/* .starbucks {
+    height: 185px;
+    max-width: 183px;
+    margin-left: 35.11px;
+    margin-top: 107.43px;
+    margin-bottom: 65.57px;
+    display: inline-block; */
+/* } */
+
+.button-quiz {
+    box-sizing: border-box;
+    height: 75px;
+    max-width: 275px;
+    border: 1px solid #979797;
+    border-radius: 28.5px;
+    background-color: #DF476C;
+    color: #FFFFFF;
+    font-size: 20px;
+    font-weight: 500;
+    margin-top: 121px;
+    display: flex;
+    justify-content: center;
+
+}
+
+div {
+    display: flex;
+    justify-content: center;
+
 }
