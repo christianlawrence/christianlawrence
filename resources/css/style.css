@@ -63,15 +63,6 @@ h5 {
     text-align: center;
     margin-top: 32px;
 }
-/* 
-.starbucks {
-    height: 185px;
-    max-width: 183px;
-    margin-left: 35.11px;
-    margin-top: 107.43px;
-    margin-bottom: 65.57px;
-    justify-content: left;
-} */
 
 .button-quiz {
     box-sizing: border-box;
@@ -86,4 +77,16 @@ h5 {
     display: flex;
     justify-content: center;
     margin: 121px auto auto auto;
+}
+
+.starbucks {
+    height: 185px;
+    max-width: 183px;
+    position: relative;
+    left: 75px;
+    top: 10px;
+    /* margin-left: 35.11px;
+    margin-top: 107.43px;
+    margin-bottom: 65.57px;
+    justify-content: left; */
 }
