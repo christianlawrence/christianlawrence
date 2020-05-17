@@ -12,6 +12,23 @@
     width: 100%;
  }
 
+ .button-home {
+    box-sizing: border-box;
+    height: 32px;
+    width: 163px;
+    border: 1px solid #FFFFFF;
+    border-radius: 21.5px;
+    background-color: #DF476C;
+    color: #FFFFFF;
+    font-size: 10px;
+    font-weight: 500;
+    margin-top: 11px;
+    margin-left: 15px;
+    margin-bottom: 11px;
+    float: left;
+
+ }
+
 .button {
   box-sizing: border-box;
   height: 32px;
@@ -20,7 +37,7 @@
   border-radius: 21.5px;
   background-color: #DF476C;
   color: #FFFFFF;
-  font-size: 8px;
+  font-size: 10px;
   font-weight: 500;
   margin-top: 11px;
   margin-right: 46px;
