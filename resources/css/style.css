@@ -89,5 +89,61 @@ h5 {
   height: 236px;
   width: 236px;
   position: absolute;
-  right: 100px;
+  right: 50px;
+}
+
+footer {
+    height: 0%;
+}
+
+@media only screen and (max-width: 550px) {
+    .button {
+        margin-right: 10px;
+    }
+}
+
+@media only screen and (max-width: 550px) {
+    .insta {
+        height: auto;
+        width: 110px;
+        margin-left: 5px;
+    }
+}
+
+@media only screen and (max-width: 550px) {
+    .friends {
+        margin-right: 75px;
+        margin-top: 0px;
+        height: 70px;
+
+    }
+}
+
+@media only screen and (max-width: 550px) {
+    h1 {
+        font-size: 50px;
+    }
+}
+
+@media only screen and (max-width: 550px) {
+    .button-quiz {
+        margin-top: 75px;
+    }
+}
+
+@media only screen and (max-width: 550px) {
+    .starbucks {
+        width: 100px;
+        height: auto;
+        margin-top: 40px;
+        margin-left: 0px; 
+    }
+}
+
+@media only screen and (max-width: 550px) {
+    .prosecco {
+        width: 100px;
+        height: auto;
+        margin-top: 50px;
+    }
 }
