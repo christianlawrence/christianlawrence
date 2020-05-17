@@ -96,13 +96,13 @@ footer {
     height: 0%;
 }
 
-@media only screen and (max-width: 550px) {
+@media only screen and (min-width: 375px) and (max-width: 812px) {
     .button {
         margin-right: 10px;
     }
 }
 
-@media only screen and (max-width: 550px) {
+@media only screen and (min-width: 375px) and (max-width: 812px) {
     .insta {
         height: auto;
         width: 110px;
@@ -110,7 +110,7 @@ footer {
     }
 }
 
-@media only screen and (max-width: 550px) {
+@media only screen and (min-width: 375px) and (max-width: 812px) {
     .friends {
         margin-right: 75px;
         margin-top: 0px;
@@ -119,19 +119,19 @@ footer {
     }
 }
 
-@media only screen and (max-width: 550px) {
+@media only screen and (min-width: 375px) and (max-width: 812px) {
     h1 {
         font-size: 40px;
     }
 }
 
-@media only screen and (max-width: 550px) {
+@media only screen and (min-width: 375px) and (max-width: 812px) {
     .button-quiz {
         margin-top: 75px;
     }
 }
 
-@media only screen and (max-width: 550px) {
+@media only screen and (min-width: 375px) and (max-width: 812px) {
     .starbucks {
         width: 100px;
         height: auto;
@@ -140,7 +140,7 @@ footer {
     }
 }
 
-@media only screen and (max-width: 550px) {
+@media only screen and (min-width: 375px) and (max-width: 812px) {
     .prosecco {
         width: 100px;
         height: auto;
