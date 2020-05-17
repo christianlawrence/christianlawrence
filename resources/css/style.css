@@ -77,6 +77,10 @@ h5 {
     margin: 121px auto auto auto;
 }
 
+a {
+    text-decoration: none;
+}
+
 .starbucks {
     height: 185px;
     max-width: 183px;
