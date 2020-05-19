@@ -145,7 +145,7 @@ footer {
 }
 
 @media only screen and (min-width: 375px) and (max-width: 812px) {
-    .starbucks {
+    .vibes {
         width: 100px;
         height: auto;
         margin-top: 40px;
@@ -154,7 +154,7 @@ footer {
 }
 
 @media only screen and (min-width: 375px) and (max-width: 812px) {
-    .prosecco {
+    .champagne {
         width: 100px;
         height: auto;
         margin-top: 50px;
