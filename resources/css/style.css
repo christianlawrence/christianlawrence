@@ -91,18 +91,18 @@ a {
 }
 
 .vibes {
-    height: 185px;
-    max-width: 183px;
+    height: 400px;
+    max-width: 400px;
     position: relative;
-    left: 75px;
-    top: 10px;
+    bottom: 200px;
 }
 
 .champagne {
-  height: 236px;
-  width: 236px;
+  height: 300px;
+  width: 300px;
   position: absolute;
   right: 50px;
+  bottom: -10px;
 }
 
 footer {
