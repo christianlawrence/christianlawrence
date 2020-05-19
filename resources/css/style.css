@@ -12,21 +12,13 @@
     width: 100%;
  }
 
- .button-home {
-    box-sizing: border-box;
-    height: 32px;
-    width: 163px;
-    border: 1px solid #FFFFFF;
-    border-radius: 21.5px;
-    background-color: #DF476C;
-    color: #FFFFFF;
-    font-size: 10px;
-    font-weight: 500;
-    margin-top: 11px;
-    margin-left: 15px;
-    margin-bottom: 11px;
-    float: left;
-
+ .fa-home {
+     font-size: 30px;
+     color: #DF476C;
+     margin-left: 5px;
+     margin-top: 10px;
+     width: 50%;
+ 
  }
 
 .button {
@@ -98,7 +90,7 @@ a {
     text-decoration: none;
 }
 
-.starbucks {
+.vibes {
     height: 185px;
     max-width: 183px;
     position: relative;
@@ -106,7 +98,7 @@ a {
     top: 10px;
 }
 
-.prosecco {
+.champagne {
   height: 236px;
   width: 236px;
   position: absolute;
