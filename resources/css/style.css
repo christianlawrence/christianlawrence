@@ -59,6 +59,8 @@ h1 {
     line-height: 136px;
     font-weight: bold;
     height: 137px;
+    border-top: 3px solid #DF476C;
+    border-bottom: 3px solid #DF476C;
 }
 
 h5 {
