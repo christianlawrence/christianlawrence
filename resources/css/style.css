@@ -84,8 +84,10 @@ h5 {
     font-size: 20px;
     font-weight: 500;
     display: flex;
+    align-items: center;
     justify-content: center;
     margin: 121px auto auto auto;
+    width: 100%;
 }
 
 a {
@@ -159,6 +161,7 @@ footer {
  {
     box-sizing: border-box;
     height: 75px;
+    width: 100%;
     max-width: 275px;
     border: 1px solid #979797;
     border-radius: 28.5px;
@@ -168,6 +171,7 @@ footer {
     font-weight: 500;
     display: flex;
     justify-content: center;
+    align-items: center;
     margin: 121px auto auto auto;
  }
 
