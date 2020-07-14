@@ -231,14 +231,15 @@ footer {
         width: 100px;
         height: auto;
         position: relative;
-        bottom: 40px;
-        left: 250px;
+        bottom: 0px;
+        left: 150px;
     }
 
     @media only screen and (min-width: 375px) and (max-width: 812px) {
         .vibes {
             width: 100px;
             height: auto;
-            margin-top: 75px;
+            position: relative;
+            top: 0px;
         }
 }
