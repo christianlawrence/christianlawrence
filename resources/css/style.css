@@ -218,11 +218,11 @@ footer {
 }
 
 @media only screen and (min-width: 375px) and (max-width: 812px) {
-    .vibes {
-        width: 100px;
-        height: auto;
-        margin-top: 40px;
-        margin-left: 0px; 
+    table {
+        width: 350px; 
+        position: relative;
+        top: 55px;
+        right: 100px;
     }
 }
 
@@ -230,6 +230,15 @@ footer {
     .champagne {
         width: 100px;
         height: auto;
-        margin-top: 50px;
+        position: relative;
+        bottom: 40px;
+        left: 250px;
     }
+
+    @media only screen and (min-width: 375px) and (max-width: 812px) {
+        .vibes {
+            width: 100px;
+            height: auto;
+            margin-top: 75px;
+        }
 }
